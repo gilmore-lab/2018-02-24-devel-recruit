@@ -169,6 +169,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+<img src="img/video-data-documentation.jpg" height=500px/>
+
+---
+
 <a href="http://databrary.org">
 <img src="https://nyu.databrary.org/web/images/logo/databrary-nav.svg" height=200px/>
 <img src="img/databrary-stats.png" width=900px/>
