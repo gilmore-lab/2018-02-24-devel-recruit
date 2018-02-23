@@ -1,5 +1,5 @@
 ---
-title: "Open developmental science"
+title: "The development of perception for action"
 author: "Rick O. Gilmore"
 date: "`r Sys.time()`"
 output:
@@ -41,10 +41,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o27tIdYggY0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+---
+
+<video data-autoplay width="600" controls>
+  <source src="https://nyu.databrary.org/slot/9825/-/asset/11645/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Optic flow perception develops slowly
 
 <div class="centered">
-</br>
 <img src="https://raw.githubusercontent.com/gilmore-lab/moco-3-pattern-psychophysics/master/child-laminar-radial/img/child/p.corr.plot-1.png" width=450px>
 <img src="https://raw.githubusercontent.com/gilmore-lab/moco-3-pattern-psychophysics/master/child-laminar-radial/img/adult/p.corr.plot-1.png" width=450px>
 </br>
@@ -65,6 +71,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Infants' visual experiences ≠ adults'
 
 <div class="centered">
+<img src="https://raw.githubusercontent.com/gilmore-lab/temple-2017-02-27/master/img/mom-baby-carrier.jpg" height=150px/>
+</br>
 <video data-autoplay width="400" controls>
   <source src="https://nyu.databrary.org/slot/7740/0,24634/asset/16751/download?inline=true" type="video/mp4">
   Your browser does not support the video tag.
@@ -79,6 +87,18 @@ knitr::opts_chunk$set(echo = FALSE)
 </small>
 </div>
 
+---
+
+<video data-autoplay width="600" controls>
+  <source src="https://nyu.databrary.org/slot/11680/25500,50000/asset/41873/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</br>
+<video data-autoplay width="600" controls>
+  <source src="https://nyu.databrary.org/slot/11680/51000,75500/asset/41875/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Infants experience *faster* speeds 
 
 <div class="centered">
@@ -86,6 +106,27 @@ knitr::opts_chunk$set(echo = FALSE)
 </br>
 <small>
 ([Raudies & Gilmore, 2014](http://doi.org/10.1162/NECO_a_00645))
+</small>
+</div>
+
+---
+
+<video data-autoplay width="600" controls>
+  <source src="https://nyu.databrary.org/slot/11630/1567557,1747248/asset/39854/download?inline=true
+" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</br>
+[Jayaraman et al., 2014](http://doi.org/10.17910/B7988V)
+
+---
+
+<div class="centered">
+<img src="https://raw.githubusercontent.com/gilmore-lab/temple-2017-02-27/master/img/bloomington.jpg" width=400px>
+<img src="https://raw.githubusercontent.com/gilmore-lab/temple-2017-02-27/master/img/chennai.jpg" width=400px>
+</br>
+<small>
+([Gilmore et al, 2015](http://doi.org/10.1109/DEVLRN.2015.7345450))
 </small>
 </div>
 
@@ -116,7 +157,6 @@ knitr::opts_chunk$set(echo = FALSE)
 </small>
 </div>
 
-
 ---
 
 <div class="centered">
@@ -126,13 +166,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ([Gilmore et al, 2015](http://doi.org/10.1109/DEVLRN.2015.7345450))
 </small>
 </div>
-
-## Take homes
-
-- Perception and action are **AWESOME** to study
-- Bigger, densier, richer data sets are **AWESOME**
-- Openly shared video datasets are **AWESOME**
-- Let's share and discover more, faster
 
 ---
 
