@@ -37,6 +37,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
+<img src="http://cns.bu.edu/_vislab/projects/buk/heading_files/opflow.gif"/>
+
+---
+
 ## Optic flow informs action
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o27tIdYggY0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -170,6 +174,37 @@ knitr::opts_chunk$set(echo = FALSE)
 ---
 
 <img src="img/video-data-documentation.jpg" height=500px/>
+
+---
+
+<img src="https://nyu.databrary.org/slot/14554/-/asset/61306/download?inline=true"/>
+</br>
+[Mota-Mena & Scherf, 2016](http://doi.org/10.17910/B7.272)
+</br>
+<video data-autoplay width="300" controls>
+  <source src="https://nyu.databrary.org/slot/9809/-/asset/11354/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</br>
+[Naigles, 2014](http://doi.org/10.17910/B7.272)
+
+---
+
+<video data-autoplay width="400" controls>
+  <source src="https://nyu.databrary.org/slot/9829/-/asset/9918/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</br>
+[Messinger, 2014](http://doi.org/10.17910/B7059D)
+
+----
+
+<video data-autoplay width="600" controls>
+  <source src="https://nyu.databrary.org/slot/11141/0,5000/asset/37964/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</br>
+[Wilkinson, 2014](http://doi.org/10.17910/B7G59R)
 
 ---
 
